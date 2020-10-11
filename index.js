@@ -46,7 +46,7 @@ const agregarMonto = () => {
                 <div class="item__value">${type} ${value}</div>
                 <div class="item__delete">
                     <button class="item__delete--btn" onclick="removeSaldo(${id})">
-                        <i class="ion-ios-close-outline"></i>
+                        <i class="far fa-times-circle"></i>
                     </button>
                 </div>
             </div>
